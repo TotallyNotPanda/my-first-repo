@@ -6,3 +6,5 @@ git commit:「建立版本歷史紀錄」
 
 git push：上傳到 GitHub
 
+興趣：微積分超好玩的
+
